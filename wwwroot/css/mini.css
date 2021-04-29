@@ -1,0 +1,14 @@
+﻿body {
+    background-color: gray;
+}
+
+#header {
+    top: 0;
+    position: absolute;
+    padding: 10px 15px 10px 15px;
+    background-color: white;
+}
+
+#score {
+    color: #cc0000;
+}
