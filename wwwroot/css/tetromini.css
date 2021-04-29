@@ -1,0 +1,11 @@
+﻿html { height: 100%; }
+body { overflow: hidden; background-color: gray; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; color: #505050; height: 100%; margin: 0; padding: 0; position: relative; } 
+#game { position: absolute; left: 50%; margin-left: -5px; top: 50%; margin-top: -10px; }
+#share { position: absolute; height: 30px; width: 500px; line-height: 30px; text-align: center; background-color: white; left: 50%; margin-left: -250px; top: 100%; margin-top: -30px; }
+#score-bar { position: absolute; height: 30px; width: 270px; line-height: 30px; text-align: center; background-color: white; left: 50%; margin-left: -135px; top: 0; }
+#score, #level, #lines { width: 40px; display: inline-block; text-align: center; }
+#score { color: #cc0000; }
+#level { width: 10px; }
+#lines { width: 15px; }
+a { color: #505050; text-decoration: none; }
+a:hover { text-decoration: none; border-bottom: 2px solid #505050; }
