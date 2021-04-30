@@ -1,6 +1,0 @@
-﻿html { height: 100%; }
-body { overflow: hidden; background-color: black; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 14px; color: #505050; height: 100%; margin: 0; padding: 0; position: relative; } 
-#game { position: absolute; left: 50%; margin-left: -320px; top: 50%; margin-top: -200px; }
-#share { position: absolute; height: 30px; width: 490px; line-height: 30px; text-align: center; background-color: white; left: 50%; margin-left: -245px; top: 100%; margin-top: -30px; }
-a { color: #505050; text-decoration: none; }
-a:hover { text-decoration: none; border-bottom: 2px solid #505050; }
